@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Project 1",
+      "imageSrc": "projects/image6.png",
+      "description": "This is a iphone clone app build by simple React",
+      "skills": ["React", "Node", "Three.js","gsap"],
+      "demo": "https://iphone-blush.vercel.app/",
+      "source": "https://github.com/swarnava2001karan/iphone"
+    },
+    {
+      "title": "Project 2",
+      "imageSrc": "projects/projects.png",
+      "description": "This is a chat app created by React",
+      "skills": ["React", "Node", "Socket.io"],
+      "demo": "https://mern-chat-rb.vercel.app/",
+      "source": "https://github.com/swarnava2001karan/mern-chat"
+    },
+    {
+      "title": "Project 3",
+      "imageSrc": "projects/image1.png",
+      "description": "This is a google clone project created by next js",
+      "skills": ["Next Js", "Node"],
+      "demo": "https://google-clone-eta-eight.vercel.app/",
+      "source": "https://github.com/swarnava2001karan/google-clone"
+    },
+    {
+      "title":"Project 5",
+      "imageSrc":"projects/image3.png",
+      "description":"An anime landing page with framer motion and next js",
+      "skills":["Next Js","Framer-Motion","React"],
+      "demo":"https://anime-one-zeta.vercel.app/",
+      "source":"https://github.com/swarnava2001karan/anime"
+    },
+    {
+      "title":"Project 6",
+      "imageSrc":"projects/image4.png",
+      "description":"A crypto chart app showing real time values",
+      "skills":["React.js", "Chart.js","React-three-fiber"],
+      "demo":"https://cryptoverse-lac.vercel.app/",
+      "source":"https://github.com/swarnava2001karan/cryptoverse"
+    },
+    {
+      "title":"Project 7",
+      "imageSrc":"projects/image5.png",
+      "description":"A self project on apple landing page",
+      "skills":["React.js", "Node.Js", "Three.js","gsap"],
+      "demo":"https://main--gilded-lokum-be9ce0.netlify.app/",
+      "source":"https://github.com/swarnava2001karan/apple-3d-landing-page"
+    }
+  ]
